@@ -1,1 +1,8 @@
-# sliderop14-boop-quizgame-on-python
+[mysum.py](https://github.com/user-attachments/files/24430064/mysum.py)
+[new one.py](https://github.com/user-attachments/files/24430065/new.one.py)[mysolution.py](https://github.com/user-attachments/files/24430072/mysolution.py)
+[myquizgame.py](https://github.com/user-attachments/files/24430071/myquizgame.py)
+[idk.py](https://github.com/user-attachments/files/24430070/idk.py)
+[hectic.py](https://github.com/user-attachments/files/24430069/hectic.py)
+[dictionary.py](https://github.com/user-attachments/files/24430068/dictionary.py)
+[string counting.py](https://github.com/user-attachments/files/24430067/string.counting.py)
+[solution.py](https://github.com/user-attachments/files/24430066/solution.py)
